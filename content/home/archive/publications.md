@@ -4,12 +4,14 @@
 widget: pages
 
 # This file represents a page section.
-headless: true
+headless: false
+
+active: false
 
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
+title: Selected Publications
 subtitle: ''
 
 content:
@@ -35,7 +37,3 @@ design:
   view: citation
   columns: '2'
 ---
-
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}

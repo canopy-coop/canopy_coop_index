@@ -6,6 +6,8 @@ widget: accomplishments
 # This file represents a page section.
 headless: true
 
+active: false
+
 # Order that this section appears on the page.
 weight: 50
 
@@ -23,13 +25,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://www.waterdatalab.com
     date_end: ''
     date_start: '2021-01-25'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    description: 'Hydrologic Data Science and Engineering'
+    organization: PopMetrics
+    organization_url: https://www.popmetrics.org
+    title: Popmetrics
     url: ''
   - certificate_url: https://www.edx.org
     date_end: ''
