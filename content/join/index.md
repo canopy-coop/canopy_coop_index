@@ -59,6 +59,14 @@ Rochdale Principles and how coops work
 
 Membership dues and how those compare to classical consulting models. 
 
+
+<br>  
+
+## Our story
+
+The founders of PhD Cooperative met during their doctoral studies and bonded over a desire for creative, meaningful, self-directed work outside of academia. They wanted to work on the kind of interesting, stimulating, issues typically found in academia, but outside of the trappings of the [crack]academic career path. This led one founder to the private sector, but the extremely large overhead and hierarchical corporate structures typical of most firms was discouraging, unsustainable, and didn't allow for creative control. In 2021, Water Data Lab (WaDL) was founded and quickly grew into a successful consulting business. In the process, we learned how to start and operate a consulting business the hard way. As we started to help other friends follow in our footsteps, we saw an opportunity to create a non-hierarchical, worker-owned consulting cooperative that enabled experts to rapidly launch their own consulting practice. _PhD Cooperative_ is the result of our learnings in the consulting space, it is a network of experts to collaborate with, it's a  a set of systems and procedures to streamline business operations, and it's a platform to empower experts to focus on getting work done while the cooperative administrates details.  
+
+
 <br>  
 
 ## Want to learn more?
