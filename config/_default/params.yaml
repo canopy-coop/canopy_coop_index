@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'PhD COOPERATIVE: A worker-owned consultancy of seasonsed experts.'
+    description: 'CANOPY CO-OPERATIVE: A worker-owned consultancy.'
     twitter: 'wowchemy'
   analytics:
     google_analytics: ''
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} PhD COOPERATIVE'
+    notice: '© {year} CANOPY CO-OPERATIVE'
     license:
       enable: true
       allow_derivatives: false

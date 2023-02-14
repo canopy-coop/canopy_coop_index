@@ -1,5 +1,5 @@
 ---
-title: Join phd.coop
+title: Join the canopy (co-op)
 # summary: Here we describe how to add a page to your site.
 # date: "2018-06-28T00:00:00Z"
 
@@ -14,7 +14,7 @@ header:
   image: ""
   
 image:
-  placement: 3
+  placement: 1
   # caption: "Photo by [Geo](https://github.com/gcushen/)"
   focal_point: "Center"
   preview_only: false
@@ -27,28 +27,31 @@ image:
 
 <br>  
 
-```
-install.packages("phdcoop")
-
-pip install phdcoop
+```bash
+pip install canopy
 ```
 
+```r
+install.packages("canopy")
+```		
 
-Those don't actually work, but they do illustrate a key aspiration of phd.coop: _starting a consulting practice should be as easy as installing an R or Python package!_
+
+Those don't actually work, but they illustrate a key aspiration of canopy.coop: _starting a consulting practice should be as easy as installing a Python or R package._
 
 <br>  
 
 ## Cooperative benefits
 
-We're so excited that you're interested in joining! Our mission at phd.coop is to make it extremely easy for experts to start consulting. To us, that looks like going from zero to having a business in 3 days. That includes:
+Thanks for being here. Our mission at canopy.coop is to make it extremely easy for experts to start consulting. That looks like going from ground zero to having a legal business in 3 days. That includes:  
 
 - 📝 __insurance__ : commercial, professional, and general liability  
-- 🙋 __mentorship__ : help crafting SOWs and selling your work  
+- 🙋 __mentorship__ : help marketing and scoping professional work  
 - 💵 __finances__ : bank account, invoicing templates, taxes  
 - ✉️ __communication and data__ : email and drive storage  
-- 🕸️ __network__: expert colleagues to collaborate with
-- ⚖️ __legal__ : expert counsel and dialed legal forms       
-- 🖥️ __branding__ : website and marketing   
+- 🕸️ __network__: colleagues to collaborate with
+- 🖥️ __branding__ : website and marketing 
+- ⚖️ __legal__ : counsel and legal forms       
+  
 
 
 <br>  
