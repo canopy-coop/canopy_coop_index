@@ -14,7 +14,7 @@ external_link: 'https://waterdatalab.com'
 #   - icon: globe
 #     icon_pack: fas
 #     name: Visit
-#     url: https://waterdatalab.com
+#     url: https://www.waterdatalab.com
 url_code: ''
 url_pdf: ''
 url_slides: ''

@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-# title = "PhD COOPERATIVE"
+# title = "Caopy COOPERATIVE"
 # subtitle = "A worker-owned consultancy of experts across disciplines."
 
 [design]
@@ -29,7 +29,7 @@ weight = 15  # Order that this section will appear.
   gradient_end = "ForestGreen"
   
   # Background image.
-  image = "banner.jpg"  # Name of image in `static/media/`.
+  image = "canopy1.png"  # Name of image in `static/media/`.
   image_darken = 0.8  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   # image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -51,11 +51,11 @@ weight = 15  # Order that this section will appear.
 +++
 
 
-<p style="font-size: 45px"><b>PhD COOPERATIVE</b></p>
+<p style="font-size: 45px"><b>CANOPY CO-OPERATIVE</b></p>
 
 <br>
 
-<p style="font-size: 28px"><i>A worker-owned consultancy of experts across disciplines</i></p>
+<p style="font-size: 28px"><i>A worker-owned consultancy</i></p>
 
 <!----
 <p style="font-size: 21px">

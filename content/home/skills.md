@@ -9,37 +9,38 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Not your average consultancy.
-subtitle: the phd.coop difference <br><br>
+title: Not your average consultancy
+subtitle: _we've gone out on a limb_ <br><br>
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: Direct access to individual relationships with seasoned experts across a range of disciplines.
+  - description: Relationships with experts across disciplines.
     icon: handshake
     icon_pack: fas
     name: Personal
-  - description: We believe in equitable, cooperative ownership according to the [Rochdale Principles](https://en.wikipedia.org/wiki/Rochdale_Principles). 
+  - description: We practice equitable, cooperative ownership via the [Rochdale Principles](https://en.wikipedia.org/wiki/Rochdale_Principles). 
     icon: people-arrows
     icon_pack: fas
     name: Worker-Owned
-  - description: According to our [bylaws](), we only work on projects that lead towards a more equitable, just, and sustainable future.  
-    icon: solar-panel
-    icon_pack: fas
-    name: Conscientious
-  - description: We value diverse, international perspectives, and are proud to be a minority-owned business.
-    icon: earth-asia
-    icon_pack: fas
-    name: Diverse
-  - description: We donate X% of all revenue towards charitable causes that advance a more equitable, just, and sustainable future. 
-    icon: tree
-    icon_pack: fas
-    name: Prudent
-  - description: We assemble expert teams to address rare and exacting problems.
+  - description: We assemble expert teams to address novel and challenging problems.
     icon: atom
     icon_pack: fas
     name: Deep Expertise
+  - description: We only work on projects that create an equitable, just, and sustainable future. See our [bylaws](/bylaws).  
+    icon: solar-panel
+    icon_pack: fas
+    name: Conscientious
+  - description: We value diverse perspectives and are proud to be a minority-owned business.
+    icon: earth-asia
+    icon_pack: fas
+    name: Diverse
+  - description: We donate 10% of all revenue towards charitable causes. 
+    icon: tree
+    icon_pack: fas
+    name: Prudent
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
