@@ -51,11 +51,13 @@ weight = 15  # Order that this section will appear.
 +++
 
 
-<p style="font-size: 45px"><b>CANOPY CO-OPERATIVE</b></p>
+<p style="font-size: 45px"><b>CONVOLVE COLLECTIVE</b></p>
 
 <br>
 
-<p style="font-size: 28px"><i>A worker-owned consultancy</i></p>
+<p style="font-size: 28px">con·volve [kən-ˈvälv] <i>verb</i></p>
+<p style="font-size: 18px">roll or coil together; entwine</p>
+<p style="font-size: 18px"><b>MATHEMATICS</b>: a <i>convolution</i> expresses how one function modifies another</p>
 
 <!----
 <p style="font-size: 21px">

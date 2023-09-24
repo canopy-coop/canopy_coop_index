@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 🌱 canopy.coop # Website name
-baseURL: 'https://canopy.coop/' # Website URL
+title: ♾️ Convolve Collective # Website name
+baseURL: 'https://convolvecollective.com/' # Website URL
 
 ############################
 ## LANGUAGE

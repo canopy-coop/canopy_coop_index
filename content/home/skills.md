@@ -10,17 +10,17 @@ headless: true
 weight: 30
 
 title: Not your average consultancy
-subtitle: _we've gone out on a limb_ <br><br>
+subtitle: _convolved, yet far from convoluted_ <br><br>
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: Relationships with experts across disciplines.
+  - description: We believe strong relationships and learning from our clients.
     icon: handshake
     icon_pack: fas
     name: Personal
-  - description: We practice equitable, cooperative ownership via the [Rochdale Principles](https://en.wikipedia.org/wiki/Rochdale_Principles). 
+  - description: We practice equitable, cooperative governance via the [Rochdale Principles](https://en.wikipedia.org/wiki/Rochdale_Principles). 
     icon: people-arrows
     icon_pack: fas
     name: Worker-Owned
