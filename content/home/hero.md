@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-# title = "Caopy COOPERATIVE"
+# title = "Convolve COOPERATIVE"
 # subtitle = "A worker-owned consultancy of experts across disciplines."
 
 [design]
@@ -29,7 +29,7 @@ weight = 15  # Order that this section will appear.
   gradient_end = "ForestGreen"
   
   # Background image.
-  image = "canopy1.png"  # Name of image in `static/media/`.
+  image = "banner2.jpg"  # Name of image in `static/media/`.
   image_darken = 0.8  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   # image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -50,13 +50,14 @@ weight = 15  # Order that this section will appear.
  css_class = ""
 +++
 
-
+<!----
 <p style="font-size: 45px"><b>CONVOLVE COLLECTIVE</b></p>
-
 <br>
+--->
 
 <p style="font-size: 28px">con·volve [kən-ˈvälv] <i>verb</i></p>
-<p style="font-size: 18px">roll or coil together; entwine</p>
+<!---- <p style="font-size: 18px">roll or coil together; entwine</p> --->
+<p style="font-size: 18px"><b>ORGANIZATION</b>: a worked-owned cooperative of scientists, engineers, & subject matter experts</p>
 <p style="font-size: 18px"><b>MATHEMATICS</b>: a <i>convolution</i> expresses how one function modifies another</p>
 
 <!----

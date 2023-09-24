@@ -27,5 +27,3 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
-Founded in 2021, Water Data Lab LLC (WaDL) is a data-driven consultancy focused on bringing the best science and technology to address the hardest problems facing global water resources.

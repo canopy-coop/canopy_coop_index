@@ -1,10 +1,10 @@
 ---
 title: False Color Labs
-summary: Satellite & conflict mapping analytics.
+summary: Satellite & conflict mapping analytics
 # date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://waterdatalab.com'
+external_link: 'https://falsecolorlabs.com'
 
 # image:
 #   caption: Photo by rawpixel on Unsplash
@@ -28,4 +28,3 @@ url_video: ''
 slides: ""
 ---
 
-Founded in 2021, Water Data Lab LLC (WaDL) is a data-driven consultancy focused on bringing the best science and technology to address the hardest problems facing global water resources.
