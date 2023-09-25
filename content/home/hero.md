@@ -57,7 +57,7 @@ weight = 15  # Order that this section will appear.
 
 <p style="font-size: 28px">con·volve [kən-ˈvälv] <i>verb</i></p>
 <!---- <p style="font-size: 18px">roll or coil together; entwine</p> --->
-<p style="font-size: 18px"><b>ORGANIZATION</b>: a worked-owned cooperative of scientists, engineers, & subject matter experts</p>
+<p style="font-size: 18px"><b>ORGANIZATION</b>: a worker-owned cooperative of scientists, engineers, & subject matter experts</p>
 <p style="font-size: 18px"><b>MATHEMATICS</b>: a <i>convolution</i> expresses how one function modifies another</p>
 
 <!----
