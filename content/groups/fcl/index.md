@@ -1,10 +1,11 @@
 ---
-title: Water Data Lab
-summary: Hydrologic data science & engineering
+title: Satellite & conflict mapping analytics
+# title: False Color Labs
+# summary: Satellite & conflict mapping analytics
 # date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://waterdatalab.com'
+external_link: 'https://falsecolorlabs.com'
 
 # image:
 #   caption: Photo by rawpixel on Unsplash
@@ -14,7 +15,7 @@ external_link: 'https://waterdatalab.com'
 #   - icon: globe
 #     icon_pack: fas
 #     name: Visit
-#     url: https://www.waterdatalab.com
+#     url: https://waterdatalab.com
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -27,3 +28,4 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+

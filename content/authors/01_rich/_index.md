@@ -20,11 +20,11 @@ role: Data Scientist, Hydrogeologist
 # Short bio (displayed in user profile at end of posts)
 #bio: My interests include hydrogeology, 3D groundwater flow and contaminant transport simulation, data science and web technologies, and building simple solutions to complex problems.
 
-interests:
-- 3D groundwater flow and contaminant transport
-- Mathematical modeling of hydrologic systems
-- Real-time, in-situ sensor networks
-- Data science and open source software
+# interests:
+# - 3D groundwater flow and contaminant transport
+# - Mathematical modeling of hydrologic systems
+# - Real-time, in-situ sensor networks
+# - Data science and open source software
 
 education:
   courses:
@@ -76,8 +76,4 @@ My background is in hydrogeology (numerical models, statistical methods, optimiz
 I've built physical [simulation models](https://www.richpauloo.com/publication/vhgr/) of groundwater flow and contaminant transport in heterogeneous subsurface media, open source frameworks for [real-time groundwater monitoring](https://www.richpauloo.com/project/lcsn/), models that predict if a [well may run dry](https://www.richpauloo.com/publication/well-failure/) during drought or unsustainable management (complete with [dashboards to communicate these findings](https://www.gsawellfailure.com)), award-winning applications that bring clarity to [massive datasets]((http://www.calwaterquality.com)), and `R` [packages](https://github.com/richpauloo/textme).
 I'm motivated by communicating technically complex concepts to facilitate decision-making in non-technical groups. Critical management and policy decisions often hinge on the meaningful integration of physical science with quantitative societal and economic analysis, and I enjoy working at this interdisciplinary boundary.
 
-I'm also passionate about science education and the outdoors. Before pursuing a PhD, I taught environmental science to middle and high school students in Yosemite and the Marin Headlands for the educational nonprofit NatureBridge, and spent summers leading expeditions in the wilderness, and in Thailand for National Geographic Student Expeditions. I love the challenge of guiding tight knit groups for weeks on end in far corners of the Earth, speaking to large crowds, communicating to diverse audiences, and improvising.
-
-In my free time, I enjoy running, surfing, climbing mountains, building bikes, reading, practicing guitar, and cooking extravagant dinners. 
-
-
+Before my doctoral studies, I taught environmental science to middle and high school students in Yosemite and the Marin Headlands for the educational nonprofit NatureBridge. I spent summers leading expeditions in the wilderness, and in Thailand for National Geographic Student Expeditions. 

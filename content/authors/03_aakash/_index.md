@@ -10,7 +10,7 @@ authors:
 #superuser: true
 
 # Role/position
-role: Hydrogeophysist, remote sensing expert, data scientist
+role: Hydrogeophysist, Remote Sensing Expert, Data Scientist
 
 # Organizations/Affiliations
 #organizations:
@@ -20,10 +20,10 @@ role: Hydrogeophysist, remote sensing expert, data scientist
 # Short bio (displayed in user profile at end of posts)
 #bio: 
 
-interests:
-- Remote Sensing of Hydrologic and Biologic processes
-- Multi-sensor data fusion
-- Machine Learning and Data Assimilation
+# interests:
+# - Remote Sensing of Hydrologic and Biologic processes
+# - Multi-sensor data fusion
+# - Machine Learning and Data Assimilation
 
 education:
   courses:

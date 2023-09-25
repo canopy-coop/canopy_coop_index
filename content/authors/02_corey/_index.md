@@ -10,7 +10,7 @@ authors:
 #superuser: true
 
 # Role/position
-role: Remote Sensing Scientist, Geologist
+role: Remote Sensing Expert, Geologist
 
 # Organizations/Affiliations
 #organizations:
@@ -20,10 +20,10 @@ role: Remote Sensing Scientist, Geologist
 # Short bio (displayed in user profile at end of posts)
 #bio: Yaddah yaddah.
 
-interests:
-- Remote sensing 
-- Hydrology
-- Critical physical geography
+# interests:
+# - Remote sensing 
+# - Hydrology
+# - Critical physical geography
 
 education:
   courses:
@@ -73,6 +73,5 @@ user_groups:
 - Partners
 ---
 
-I develop methods in satellite remote sensing to study terrestrial hydrologic processes and associated human impacts. Where earth science and geopolitics overlay, I seek to develop insights from remote sensing observations that support scientific research in terrestrial hydrology and diplomatic accountability in the monitoring and management of increasingly scarce freshwater resources.
+I develop methods in satellite remote sensing to study terrestrial hydrologic processes and associated human impacts. Where earth science and geopolitics overlay, I develop insights from remote sensing observations that support scientific research in terrestrial hydrology and diplomatic accountability in the monitoring and management of increasingly scarce freshwater resources.
 
-I was born and raised in Berkeley, CA.

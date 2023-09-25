@@ -10,7 +10,7 @@ headless: true
 weight: 30
 
 title: Convolve was built to solve hard problems
-subtitle: _Bringing relationship-driven and deep expertise to your most pressing challenges_ <br><br>
+subtitle: _We bring deep expertise to your most pressing challenges_ <br><br>
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.

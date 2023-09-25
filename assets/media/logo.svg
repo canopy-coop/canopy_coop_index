@@ -7,9 +7,9 @@
    id="svg1838"
    sodipodi:docname="logo.svg"
    inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
-   inkscape:export-filename="/Users/richpauloo/Documents/GitHub/wg/assets/media/logo.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
+   inkscape:export-filename="/Users/richpauloo/Documents/GitHub/convolve_coop_index/assets/media/logo.png"
+   inkscape:export-xdpi="139.71721"
+   inkscape:export-ydpi="139.71721"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,9 +26,9 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      width="172.12199px"
-     inkscape:zoom="4.8926872"
-     inkscape:cx="69.287079"
-     inkscape:cy="11.95662"
+     inkscape:zoom="5.1102032"
+     inkscape:cx="70.055923"
+     inkscape:cy="-2.2503997"
      inkscape:window-width="1679"
      inkscape:window-height="969"
      inkscape:window-x="0"
@@ -45,28 +45,28 @@
        style="font-size:9.37463px;stroke-width:0.234366">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87786px;line-height:1.25;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.0620098"
-         x="0.27501589"
-         y="6.3264351"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.3685px;line-height:1.25;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.0588122"
+         x="-0.12994793"
+         y="5.9111462"
          id="text7650"
-         transform="scale(0.97903217,1.0214169)"><tspan
+         transform="scale(1.0125011,0.98765324)"><tspan
            sodipodi:role="line"
            id="tspan7648"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87785954px;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;stroke-width:0.0620098"
-           x="0.27501589"
-           y="6.3264351">c</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.3685px;font-family:'Academy Engraved LET';-inkscape-font-specification:'Academy Engraved LET, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;stroke-width:0.0588122"
+           x="-0.12994793"
+           y="5.9111462">c</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76118px;line-height:1.25;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0620098"
-         x="5.3514867"
-         y="6.3339982"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.36097px;line-height:1.25;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0588122"
+         x="4.1828656"
+         y="5.9183192"
          id="text7650-5"
-         transform="scale(0.97903217,1.0214169)"><tspan
+         transform="scale(1.0125011,0.98765324)"><tspan
            sodipodi:role="line"
            id="tspan7648-4"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76118px;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.0620098"
-           x="5.3514867"
-           y="6.3339982">onvolve</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.36473px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.0588122"
+           x="4.1828656"
+           y="5.9183192">onvolve</tspan></text>
     </g>
   </g>
 </svg>

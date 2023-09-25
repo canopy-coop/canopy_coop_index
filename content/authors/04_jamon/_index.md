@@ -10,7 +10,7 @@ authors:
 #superuser: true
 
 # Role/position
-role: Principal
+role: Geographer
 
 # Organizations/Affiliations
 #organizations:
@@ -20,8 +20,8 @@ role: Principal
 # Short bio (displayed in user profile at end of posts)
 #bio: My interests include hydrogeology, 3D groundwater flow and contaminant transport simulation, data science and web technologies, and building simple solutions to complex problems.
 
-interests:
-- fupayme
+# interests:
+# - fupayme
 
 education:
   courses:
@@ -45,12 +45,12 @@ social:
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github-alt
-  icon_pack: fab
-  link: 
-- icon: stack-overflow
-  icon_pack: fab
-  link: 
+# - icon: github-alt
+#   icon_pack: fab
+#   link: 
+# - icon: stack-overflow
+#   icon_pack: fab
+#   link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv

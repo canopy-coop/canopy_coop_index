@@ -1,10 +1,10 @@
 ---
-title: False Color Labs
-summary: Satellite & conflict mapping analytics
+# title: Water Data Lab
+summary: _Rural areas sacrificed for Xi Jinping’s new city, satellite imagery shows_
 # date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://falsecolorlabs.com'
+external_link: https://www.washingtonpost.com/world/2023/08/31/china-floods-beijing-rain/
 
 # image:
 #   caption: Photo by rawpixel on Unsplash
@@ -14,7 +14,7 @@ external_link: 'https://falsecolorlabs.com'
 #   - icon: globe
 #     icon_pack: fas
 #     name: Visit
-#     url: https://waterdatalab.com
+#     url: https://www.waterdatalab.com
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -27,4 +27,3 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-

@@ -10,8 +10,8 @@ main:
   # - name: Posts
   #   url: '#posts'
   #   weight: 20
-  # - name: Projects
-  #   url: '#projects'
+  # - name: Press
+  #   url: '#press'
   #   weight: 30
   - name: People
     url: '#people'
