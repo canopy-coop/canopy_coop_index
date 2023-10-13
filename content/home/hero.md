@@ -22,7 +22,7 @@ weight = 15  # Order that this section will appear.
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  color = "navy"
   
   # Background gradient.
   gradient_start = "DarkGreen"
@@ -55,10 +55,10 @@ weight = 15  # Order that this section will appear.
 <br>
 --->
 
-<p style="font-size: 28px">con·volve [kən-ˈvälv] <i>verb</i></p>
-<!---- <p style="font-size: 18px">roll or coil together; entwine</p> --->
+<p style="font-size: 28px">con·volve [kən-ˈvälv]</p>
+<p style="font-size: 18px"><b>VERB</b>: roll or coil together; entwine</p> 
+<p style="font-size: 18px"><b>MATHEMATICS</b>: combine (one function or series) with another by forming their <i>convolution</i></p>
 <p style="font-size: 18px"><b>ORGANIZATION</b>: a worker-owned cooperative of scientists, engineers, & subject matter experts</p>
-<p style="font-size: 18px"><b>MATHEMATICS</b>: a <i>convolution</i> expresses how one function modifies another</p>
 
 <!----
 <p style="font-size: 21px">
