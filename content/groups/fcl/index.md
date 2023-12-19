@@ -1,5 +1,5 @@
 ---
-title: Satellite & conflict mapping analytics
+title: Satellite mapping and analytics
 # title: False Color Labs
 # summary: Satellite & conflict mapping analytics
 # date: '2016-04-27T00:00:00Z'
