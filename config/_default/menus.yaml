@@ -13,9 +13,9 @@ main:
   # - name: Press
   #   url: '#press'
   #   weight: 30
-  - name: People
-    url: '#people'
-    weight: 40
+  # - name: People
+    # url: '#people'
+    # weight: 40
   - name: Groups
     url: '#groups'
     weight: 50
